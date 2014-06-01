@@ -1,4 +1,4 @@
 GhostLogs
-=========
+============
 
-Scrapes Ghost IRC Logs
+Scrapes all the logs for `#ghost`.
